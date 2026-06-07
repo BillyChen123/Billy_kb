@@ -1,5 +1,5 @@
 ---
-title: AI-Agent 知识分享索引
+title: 入门Codex和Claude Code
 type: reference
 status: draft
 domain: ai-agent
@@ -11,7 +11,7 @@ tags:
 agent_reading: cautious
 ---
 
-# AI-Agent 知识分享索引
+# 入门Codex和Claude Code
 
 这里放 AI Agent 相关知识分享，包括理论、实践、入门材料和后续可沉淀的经验。
 
