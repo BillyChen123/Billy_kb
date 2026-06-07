@@ -19,6 +19,20 @@ Agent：
 2. 处理项目时，必须先读该项目的 `README.md` 和 `memory.md`。
 3. 每次实质推进后，判断是否需要运行 `/sync_memory`。
 
+## 当前功能知识地图
+
+星级是先验重要性判断，表示这条知识对当前 AI-native 工作流的潜在杠杆；不是客观质量排名。
+
+| 类别 | 知识/功能 | 重要性 | 维护/来源 | 适合用来做什么 |
+|---|---|---:|---|---|
+| 项目 | [自建中转站](<./10-项目/自建中转站/README.md>) | ★★★★ | Billy 提出，Agent 整理 | 沉淀自建中转站的目标、评测维度、实现路线和踩坑经验 |
+| AI-Agent 入门 | [入门 Codex 和 Claude Code](<./20-主题库/AI-Agent/入门Codex和Claude Code.md>) | ★★★★ | Billy 提供视频资源，Agent 整理 | 新成员快速理解 Codex、Claude Code 和 Agent 工作方式 |
+| AI-Agent 资源 | [外部中转站评测](<./20-主题库/AI-Agent/外部中转站评测.md>) | ★★★ | Billy 提供链接，Help AIO 来源，Agent 整理 | 对比 Claude、Codex、Gemini 等中转站服务，辅助自建中转站项目 |
+| 方法范式 | [OpenSpec](<./20-主题库/方法范式/OpenSpec.md>) | ★★★★★ | OpenSpec GitHub，Agent 解读 | 用需求驱动开发范式约束 AI coding，先写规格再实现 |
+| 方法范式 | [QDD](<./20-主题库/方法范式/QDD.md>) | ★★★★★ | Billy / QDD GitHub，Agent 解读 | 用问题驱动方式推进科研探索，沉淀 study、memory 和 artifacts |
+| Skills | [开发 Skills](<./20-主题库/Skills/开发Skills.md>) | ★★★★ | 外部 GitHub 来源，Agent 整理 | 前端设计、工程协作、Remotion 视频制作等开发类任务 |
+| Skills | [科研 Skills](<./20-主题库/Skills/科研Skills.md>) | ★★★★ | 外部 GitHub 来源，Agent 整理 | 科研绘图、论文表达、组会和汇报 PPT 生成 |
+
 ## 目录
 
 ```text
