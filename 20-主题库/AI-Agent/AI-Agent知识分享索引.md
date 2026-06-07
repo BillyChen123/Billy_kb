@@ -25,14 +25,15 @@ agent_reading: cautious
 
 ### Claude Code & Codex 入门
 
-- Bilibili 视频 1：https://www.bilibili.com/video/BV18bJdzzEvn/
-- Bilibili 视频 2：https://www.bilibili.com/video/BV14rzQB9EJj/
+- [我是如何使用 Claude Code 和 Codex 的](https://www.bilibili.com/video/BV18bJdzzEvn/)
+- [Claude Code 从 0 到 1 全攻略：MCP / SubAgent / Agent Skill / Hook / 图片 / 上下文处理/ 后台任务](https://www.bilibili.com/video/BV14rzQB9EJj/)
 
 待整理：
 
 - 这两个视频分别适合什么阶段的新手。
 - 它们覆盖了哪些关键能力。
 - 哪些步骤可以沉淀成团队自己的 Codex / Claude Code 入门教程。
+- 第二个视频覆盖环境搭建、基础交互、终端控制、多模态、上下文管理、Hook、Skill、SubAgent、Plugin 等主题，适合整理成 Claude Code 入门路线。
 
 ## 后续沉淀方向
 

@@ -17,11 +17,13 @@ agent_reading: cautious
 
 ## 中转站评测
 
-- 中转站评测平台：https://www.helpaio.com/transit
+- [Help AIO AI 中转站评测](https://www.helpaio.com/transit)
 
 用途：
 
-- 用于观察和比较中转站服务。
+- 用于观察和比较 Claude、Codex、Gemini 等中转站服务。
+- 页面提供站点总览、中转站对比、可用性监控、Bench 榜单和智能推荐等入口。
+- 页面强调从真实用户角度体验，包含综合、价格、稳定性等排序维度。
 - 可作为 `10-项目/自建中转站/` 的外部参考。
 
 待整理：
@@ -29,6 +31,7 @@ agent_reading: cautious
 - 评测维度有哪些。
 - 哪些维度对自建中转站最重要。
 - 是否需要形成团队自己的评测表。
+- 如何处理中转站跑路风险、小额试用、可用率波动等问题。
 
 ## 自建资源
 

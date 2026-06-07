@@ -40,12 +40,15 @@ QDD：Question-Driven Discovery，问题驱动发现。
 
 当前定位：
 
-- QDD 用于科研探索和创新点生成。
-- 它强调从问题出发，而不是从已有答案或固定流程出发。
-- 适合和 `10-项目/项目名/memory.md` 结合：Agent 在推进课题时持续维护当前问题、关键判断、下一步。
+- QDD 是一个轻量科研编排 CLI，用于 Question-Driven Discovery。
+- 它让人和 Agent 共享可读的项目状态：稳定 contract、稀疏 evolution、共享资源、边界明确的 studies、显式 tasks、可提升为 artifacts 的产物。
+- 当前最小工作流包括 `qdd init .`、`qdd-start`、`qdd-propose`、`qdd-explore`、`qdd-apply`、`qdd-close`。
+- QDD 项目初始化后会包含 `contract.yaml`、`evolution.yaml`、`context/resources.md`、`context/memory/`、`studies/`、`artifacts/` 等结构。
+- 适合和本知识库的 `10-项目/项目名/memory.md` 结合：QDD 管科研探索，本库沉淀人和 Agent 都能继承的项目 memory 与 lessons。
 
 待沉淀：
 
 - QDD 的最小工作流。
 - QDD 如何映射到 `/sync_memory`、`/capture_lesson`、`/promote_knowledge`。
 - QDD 如何服务 paper 阅读、对标论文分析和创新点生成。
+- `contract.yaml`、`evolution.yaml` 与本库 `README.md`、`memory.md` 的职责边界。
